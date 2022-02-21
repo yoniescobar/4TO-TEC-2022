@@ -1,2 +1,9 @@
 *.exe
 
+/ejercicioExpresionRepaso/nbproject/private/
+/repasoExpresiones/nbproject/private/
+/repasoExpresiones/build/
+/potenciasYRaices/nbproject/private/
+/potenciasYRaices/build/
+/Ejercicios8/nbproject/private/
+/Ejercicios8/build/
