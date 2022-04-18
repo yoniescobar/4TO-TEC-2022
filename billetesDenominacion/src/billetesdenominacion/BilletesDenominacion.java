@@ -36,11 +36,7 @@ public class BilletesDenominacion {
         System.out.println("Billetes de Q.10: "+b10);
         System.out.println("Billetes de Q.5: "+b5);
         System.out.println("Billetes de Q.1: "+b1);
-
-        
-        
-        
-        
+  
     }
     
 }
